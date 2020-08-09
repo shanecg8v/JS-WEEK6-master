@@ -1,6 +1,6 @@
 # 第六週主線任務
 
-## 網址
+## 網址:https://shanecg8v.github.io/JS-WEEK6-master/#/
 
 ## Project setup
 ```
