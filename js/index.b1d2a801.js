@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["index"],{d504:function(n,e,t){"use strict";t.r(e);var l=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v(" 首頁 ")])},u=[],c=t("2877"),i={},r=Object(c["a"])(i,l,u,!1,null,null,null);e["default"]=r.exports}}]);
+//# sourceMappingURL=index.b1d2a801.js.map
